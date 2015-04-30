@@ -1,0 +1,142 @@
+body {
+	background-image: url("http://www.hdwallpapers.in/walls/blazing_guitar-HD.jpg");
+	background-size: cover;
+}
+#box{
+	font-size: 50px;
+	text-align: center;
+	text-decoration: none;
+	color: black;
+}
+.mer{
+	color: blue;
+	font-size: 50px;
+	font-family: 'Lakki Reddy', cursive;
+}
+#box2 {
+	font-size: 50px;
+	text-align: center;
+	text-decoration: none;
+	color: black;
+}
+#liberty {
+	background-image: url("http://www.hdwallpapers.in/walls/dragon_mountains-wide.jpg");
+	background-size: cover;
+}
+#lie {
+	background-image: url("http://www.hdwallpapers.in/walls/goddess-wide.jpg");
+	background-size: cover;
+}
+#reg{
+text-align: center;
+font-size: 50px;
+opacity: .5;
+font-family: 'Sarpanch', sans-serif;
+} 
+h1 {
+font-family: 'Lakki Reddy', cursive;
+  font-size:50px;  
+  font-color: white;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  /* set the background image */
+  background:url("http://www.hdwallpapers.in/walls/dino_history-wide.jpg");
+  background-position:bottom;
+  background-size:cover;
+
+  /* set the transition speed */
+  transition:2s ease all;
+}
+
+/* handle what happens on hover */
+h1:hover {
+  background-position:top;
+}
+#user {
+	text-align: center;
+	font-size: 50px;
+	opacity: .5;
+font-family: 'Lakki Reddy', cursive;
+} 
+#pass {
+	text-align: center;
+	font-size: 50px;
+	opacity: .5;
+font-family: 'Lakki Reddy', cursive;
+}
+#sub {
+	text-align: center;
+	opacity: .5;
+font-family: 'Lakki Reddy', cursive;
+}
+#log {
+	text-align: center;
+	font-size: 70px;
+	opacity: .5;
+font-family: 'Lakki Reddy', cursive;
+	padding: 25px;
+}
+#us {
+	text-align: center;
+	font-size: 50px;
+	opacity: .5;
+font-family: 'Lakki Reddy', cursive;
+} 
+#pa {
+	text-align: center;
+	font-size: 50px;
+	opacity: .5;
+font-family: 'Lakki Reddy', cursive;
+}
+input#login{
+font-family: 'Lakki Reddy', cursive;
+cursor:pointer;
+padding:5px 25px;
+background:black;
+border:1px solid maroon; 
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+-webkit-box-shadow: 0 0 4px rgba(0,0,0, .75);
+-moz-box-shadow: 0 0 4px rgba(0,0,0, .75);
+box-shadow: 0 0 4px rgba(0,0,0, .75);
+color:#f3f3f3;
+font-size:50px;
+}
+
+input#login:hover, input#login:focus{
+background-color :maroon;
+-webkit-box-shadow: 0 0 1px rgba(0,0,0, .75);
+-moz-box-shadow: 0 0 1px rgba(0,0,0, .75);
+box-shadow: 0 0 1px rgba(0,0,0, .75);
+}
+input#u{
+font-family: 'Lakki Reddy', cursive;
+padding:5px 25px;
+background:black;
+border:1px solid maroon; 
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+-webkit-box-shadow: 0 0 4px rgba(0,0,0, .75);
+-moz-box-shadow: 0 0 4px rgba(0,0,0, .75);
+box-shadow: 0 0 4px rgba(0,0,0, .75);
+color:#f3f3f3;
+font-size:20px;
+}
+input#p{
+margin: 20px;
+font-family: 'Lakki Reddy', cursive;
+padding:5px 25px;
+background:black;
+border:1px solid maroon; 
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+-webkit-box-shadow: 0 0 4px rgba(0,0,0, .75);
+-moz-box-shadow: 0 0 4px rgba(0,0,0, .75);
+box-shadow: 0 0 4px rgba(0,0,0, .75);
+color:#f3f3f3;
+font-size:20px;
+}
